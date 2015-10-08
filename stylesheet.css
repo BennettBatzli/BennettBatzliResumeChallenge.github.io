@@ -1,0 +1,61 @@
+#content-contact {
+	border-bottom: 1px solid;
+}
+#content-LearningAbroad {
+	font-family: Helvetica, Sans-serif;
+	border-bottom: 1px solid;
+	line-height: 0.25;
+}
+#content-international {
+	border-bottom: 1px solid;
+	line-height: 0.25;
+}
+ul {
+	font-family: Helvetica, Sans-serif;
+}
+#professional {
+	font-family: Helvetica, Sans-serif;
+}
+#content-MplsGolf {
+	font-family: Helvetica, Sans-serif;
+	border-bottom: 1px solid;
+	line-height: 0.25;
+}
+#international {
+	font-family: Helvetica, Sans-serif;
+}
+#education {
+	font-family: Helvetica, Sans-serif;
+}
+#education h2 {
+	border-bottom: 1px solid;
+}
+}
+.block-content {
+	font-family: Helvetica, Sans-serif;
+}
+#container {
+	background-color: #AEC4F2;
+	padding: 60px 150px 15px 150px;
+	text-align: left;
+	margin-top: 25px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-radius: 15px;
+}
+#content-contact {
+	font-family: Helvetica, Sans-serif;
+	font-size: 48pt;
+}
+#content-info {
+	font-family: Helvetica, Sans-serif;
+	line-height: 0.25;
+	margin-bottom: 50px;
+}
+.date {
+	float: right;
+	font-family: Helvetica, Sans-serif;
+}
+.block-date {
+	font-family: Helvetica, Sans-serif;
+}
