@@ -59,3 +59,6 @@ ul {
 .block-date {
 	font-family: Helvetica, Sans-serif;
 }
+.email {
+	float: right;
+	font-family: Helvetica, Sans-serif;
