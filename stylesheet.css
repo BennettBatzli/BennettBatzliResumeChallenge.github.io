@@ -1,64 +1,94 @@
-#content-contact {
-	border-bottom: 1px solid;
+html, body, h1, h2, h3, p, ul, li, section, aside, main {
+  padding: 0;
+  border: 0;
+  margin: 0;
 }
-#content-LearningAbroad {
-	font-family: Helvetica, Sans-serif;
-	border-bottom: 1px solid;
-	line-height: 0.25;
+
+body {
+	background-color: hsla(200, 20%, 60%, 0.85)
 }
-#content-international {
-	border-bottom: 1px solid;
-	line-height: 0.25;
+
+img {
+	float: right;
+	margin-right: 220px;
+	margin-top: 10px;
+	transform: rotate(15deg);
+	box-shadow: 10px 10px 5px #888888;
 }
-ul {
-	font-family: Helvetica, Sans-serif;
-}
-#professional {
-	font-family: Helvetica, Sans-serif;
-}
-#content-MplsGolf {
-	font-family: Helvetica, Sans-serif;
-	border-bottom: 1px solid;
-	line-height: 0.25;
-}
-#international {
-	font-family: Helvetica, Sans-serif;
-}
-#education {
-	font-family: Helvetica, Sans-serif;
-}
-#education h2 {
-	border-bottom: 1px solid;
-}
-}
-.block-content {
-	font-family: Helvetica, Sans-serif;
-}
-#container {
-	background-color: #AEC4F2;
+
+main {
+  	font-family: Helvetica, Sans-serif;
 	padding: 60px 150px 15px 150px;
 	text-align: left;
 	margin-top: 25px;
 	margin-left: 200px;
 	margin-right: 200px;
 	border-radius: 15px;
+	background-image: url("resume-photos/fresh_snow.png");
+	background-position: top left;
+	background-repeat: repeat;
 }
-#content-contact {
-	font-family: Helvetica, Sans-serif;
+
+.contact-info {
 	font-size: 48pt;
 }
-#content-info {
-	font-family: Helvetica, Sans-serif;
-	line-height: 0.25;
-	margin-bottom: 50px;
+
+.contact-info article {
+  font-size: 12pt;
+  border-top: 1px solid;
+  padding-top: 10px;
 }
+
+.contact-info aside {
+	float: right;
+	margin-right: 100px;
+}
+
+.education {
+  margin-top: 30px;
+  line-height: 1.5;
+}
+
+.degree {
+	border-top: 1px solid;
+  padding-top: 10px;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
 .date {
 	float: right;
-	font-family: Helvetica, Sans-serif;
+  line-height: 1.5;
 }
-.block-date {
-	font-family: Helvetica, Sans-serif;
+
+.professional {
+  margin-top: 30px;
+  line-height: 1.5;
 }
-.email {
-	float: right;
-	font-family: Helvetica, Sans-serif;
+
+.professional-content {
+  border-top: 1px solid;
+  padding-top: 10px;
+  margin-top: 10px;
+  line-height: 1.25;
+}
+
+.professional-content ul {
+  margin-top: 10px;
+}
+
+.international {
+  margin-top: 30px;
+  line-height: 1.5;
+}
+
+.international-content {
+  border-top: 1px solid;
+  margin-top: 10px;
+  padding-top: 10px;
+  line-height: 1.25;
+}
+
+.international-content ul {
+  margin-top: 10px
+}
